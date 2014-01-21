@@ -27,4 +27,10 @@ while ( $FirID <= $SecID ):
 	$FirID++;
 endwhile;
 
+// SCRIPT BY SHYAMIN AYESH
+// fb.me/Shyamin.Ayesh
+// please contact me if you have any issue with this script
+// shyaminsaf@gmail.com
+// https://www.hostinglions.com <- Sri Lankan Cheap web Hosting
+
 ?>

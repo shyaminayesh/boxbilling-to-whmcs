@@ -5,7 +5,7 @@ $URL = "https://www.yourwhmcsdomain.com/path/includes/api.php";
 $username = "whmcs-admin-username";
 $password = "whmcs-admin-password";
 
-// SET YOUR BOXBILLING DATABASE DETAUKS HERE
+// SET YOUR BOXBILLING DATABASE DETAILS HERE
 $DBHOST = 'localhost';
 $DBUSER = 'boxbilling-database-user';
 $DBPASS = 'boxbilling-database-password';
